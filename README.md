@@ -1,0 +1,1 @@
+# airaa-global-static
